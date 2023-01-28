@@ -6,7 +6,7 @@ Emula un Chip gráfico BLITTER de Williams (https://en.wikipedia.org/wiki/Blitte
 
 
 Blitter "real":
-![Imagen blitter1](https://github.com/jepalza/FB_BLITTER_EMULATOR/blob/main/salida/real.png)
+![Imagen blitter1](https://github.com/jepalza/FB_BLITTER_EMULATOR/blob/main/salida/original.png)
 
 Blitter "emulado":
-![Imagen blitter2](https://github.com/jepalza/FB_BLITTER_EMULATOR/blob/main/salida/mio.png)
+![Imagen blitter2](https://github.com/jepalza/FB_BLITTER_EMULATOR/blob/main/salida/mia.PNG)
